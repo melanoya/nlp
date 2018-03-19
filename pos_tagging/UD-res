@@ -1,0 +1,92 @@
+Воскресенье		
+.		PUNCT 
+Одно		NUM Case=Acc Gender=Neut
+средство		NOUN Animacy=Inan Case=Acc Gender=Neut Number=Sing	"средство" NOUN Animacy=Inan Case=Nom Gender=Neut Number=Sing
+жить		VERB Aspect=Imp VerbForm=Inf Voice=Act
+—		
+работать		VERB Aspect=Imp VerbForm=Inf Voice=Act
+.		PUNCT 
+Чтобы		SCONJ Mood=Cnd
+работать		VERB Aspect=Imp VerbForm=Inf Voice=Act
+,		PUNCT 
+надо		ADV Degree=Pos
+любить		VERB Aspect=Imp VerbForm=Inf Voice=Act
+работу		NOUN Animacy=Inan Case=Acc Gender=Fem Number=Sing
+.		PUNCT 
+Чтобы		SCONJ Mood=Cnd
+любить		VERB Aspect=Imp VerbForm=Inf Voice=Act
+работу		NOUN Animacy=Inan Case=Acc Gender=Fem Number=Sing
+,		PUNCT 
+надо		ADV Degree=Pos
+,		PUNCT 
+чтобы		SCONJ Mood=Cnd
+работа		NOUN Animacy=Inan Case=Nom Gender=Fem Number=Sing
+была		AUX Aspect=Imp Gender=Fem Mood=Ind Number=Sing Tense=Past VerbForm=Fin Voice=Act
+увлекательна		
+.		PUNCT 
+Чтобы		SCONJ Mood=Cnd
+она		PRON Case=Nom Gender=Fem Number=Sing Person=3
+была		AUX Aspect=Imp Gender=Fem Mood=Ind Number=Sing Tense=Past VerbForm=Fin Voice=Act
+увлекательна		
+,		PUNCT 
+надо		ADV Degree=Pos
+,		PUNCT 
+чтобы		SCONJ Mood=Cnd
+она		PRON Case=Nom Gender=Fem Number=Sing Person=3
+была		AUX Aspect=Imp Gender=Fem Mood=Ind Number=Sing Tense=Past VerbForm=Fin Voice=Act
+до		ADP 
+половины		NOUN Animacy=Inan Case=Gen Gender=Fem Number=Sing
+сделана		VERB Aspect=Perf Gender=Fem Number=Sing Tense=Past Variant=Short VerbForm=Part Voice=Pass
+и		CCONJ 
+хороша		ADJ Degree=Pos Gender=Fem Number=Sing Variant=Short
+.		PUNCT 
+Cercle		
+vicieux		
+(прим		
+.		PUNCT 
+—		
+порочный		
+круг)		
+;		PUNCT 
+но		CCONJ 
+что		PRON Animacy=Inan Case=Nom Gender=Neut Number=Sing
+же		PART 
+делать		VERB Aspect=Imp VerbForm=Inf Voice=Act
+.		PUNCT 
+Гаданье		
+карт		NOUN Animacy=Inan Case=Gen Gender=Fem Number=Plur
+,		PUNCT 
+нерешительность		
+,		PUNCT 
+праздность		
+,		PUNCT 
+тоска		
+,		PUNCT 
+мысль		NOUN Animacy=Inan Case=Acc Gender=Fem Number=Sing
+о		ADP 
+смерти		NOUN Animacy=Inan Case=Loc Gender=Fem Number=Sing
+.		PUNCT 
+Надо		ADV Degree=Pos
+выйти		VERB Aspect=Perf VerbForm=Inf Voice=Act
+из		ADP 
+этого		PRON Animacy=Inan Case=Gen Gender=Neut Number=Sing
+.		PUNCT 
+Одно		NUM Case=Acc Gender=Neut
+средство		NOUN Animacy=Inan Case=Acc Gender=Neut Number=Sing	"средство" NOUN Animacy=Inan Case=Nom Gender=Neut Number=Sing
+.		PUNCT 
+Усилие		
+над		ADP 
+собой		PRON Case=Ins
+,		PUNCT 
+чтоб		SCONJ Mood=Cnd
+работать		VERB Aspect=Imp VerbForm=Inf Voice=Act
+.		PUNCT 
+Теперь		ADV Degree=Pos
+час		NOUN Animacy=Inan Case=Nom Gender=Masc Number=Sing
+,		PUNCT 
+я		PRON Case=Nom Number=Sing Person=1
+еще		ADV Degree=Pos
+ничего		ADV Degree=Pos
+не		VERB Voice=Act
+делал		VERB Aspect=Imp Gender=Masc Mood=Ind Number=Sing Tense=Past VerbForm=Fin Voice=Act
+.		PUNCT 
